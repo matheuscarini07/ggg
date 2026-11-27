@@ -1932,6 +1932,170 @@
 					]
 				},
 				{
+					"id": "nu8axbp",
+					"type": "rect",
+					"name": "Retângulo 1 (cópia)",
+					"x": 5984,
+					"y": 1672,
+					"w": 1275,
+					"h": 105,
+					"opacity": 0.51,
+					"rotation": 0,
+					"visible": true,
+					"locked": false,
+					"fill": "#D9D9D9",
+					"stroke": "#111111",
+					"strokeWidth": 0,
+					"radius": 100,
+					"padding": [
+						0,
+						0,
+						0,
+						0
+					],
+					"shadows": [],
+					"outline": {
+						"width": 0,
+						"style": "solid",
+						"color": "#0D99FF",
+						"offset": 0
+					},
+					"filters": {},
+					"fills": [
+						{
+							"id": "legacy-fill-f0pwob2",
+							"type": "solid",
+							"color": "#fec562",
+							"opacity": 1,
+							"visible": true,
+							"blend": ""
+						}
+					]
+				},
+				{
+					"id": "7ih81td",
+					"type": "rect",
+					"name": "Retângulo 1 (cópia) (cópia)",
+					"x": 5984,
+					"y": 1852,
+					"w": 1275,
+					"h": 105,
+					"opacity": 0.51,
+					"rotation": 0,
+					"visible": true,
+					"locked": false,
+					"fill": "#D9D9D9",
+					"stroke": "#111111",
+					"strokeWidth": 0,
+					"radius": 100,
+					"padding": [
+						0,
+						0,
+						0,
+						0
+					],
+					"shadows": [],
+					"outline": {
+						"width": 0,
+						"style": "solid",
+						"color": "#0D99FF",
+						"offset": 0
+					},
+					"filters": {},
+					"fills": [
+						{
+							"id": "legacy-fill-f0pwob2",
+							"type": "solid",
+							"color": "#fec562",
+							"opacity": 1,
+							"visible": true,
+							"blend": ""
+						}
+					]
+				},
+				{
+					"id": "ayvqu5m",
+					"type": "rect",
+					"name": "Retângulo 1 (cópia) (cópia) (cópia)",
+					"x": 5984,
+					"y": 2022,
+					"w": 1275,
+					"h": 105,
+					"opacity": 0.51,
+					"rotation": 0,
+					"visible": true,
+					"locked": false,
+					"fill": "#D9D9D9",
+					"stroke": "#111111",
+					"strokeWidth": 0,
+					"radius": 100,
+					"padding": [
+						0,
+						0,
+						0,
+						0
+					],
+					"shadows": [],
+					"outline": {
+						"width": 0,
+						"style": "solid",
+						"color": "#0D99FF",
+						"offset": 0
+					},
+					"filters": {},
+					"fills": [
+						{
+							"id": "legacy-fill-f0pwob2",
+							"type": "solid",
+							"color": "#fec562",
+							"opacity": 1,
+							"visible": true,
+							"blend": ""
+						}
+					]
+				},
+				{
+					"id": "hzb82gf",
+					"type": "rect",
+					"name": "Retângulo 1 (cópia) (cópia) (cópia) (cópia)",
+					"x": 6838,
+					"y": 2194,
+					"w": 393,
+					"h": 105,
+					"opacity": 0.51,
+					"rotation": 0,
+					"visible": true,
+					"locked": false,
+					"fill": "#D9D9D9",
+					"stroke": "#111111",
+					"strokeWidth": 0,
+					"radius": 100,
+					"padding": [
+						0,
+						0,
+						0,
+						0
+					],
+					"shadows": [],
+					"outline": {
+						"width": 0,
+						"style": "solid",
+						"color": "#0D99FF",
+						"offset": 0
+					},
+					"filters": {},
+					"fills": [
+						{
+							"id": "legacy-fill-f0pwob2",
+							"type": "solid",
+							"color": "#fec562",
+							"opacity": 1,
+							"visible": true,
+							"blend": ""
+						}
+					]
+				},
+				{
 					"id": "gta3isv",
 					"type": "image",
 					"name": "Brasão medieval do poço e da água.png (cópia)",
@@ -1993,12 +2157,160 @@
 					"filters": {}
 				},
 				{
+					"id": "zr0e89u",
+					"type": "text",
+					"name": "Texto 1 (cópia)",
+					"text": "Nome:",
+					"x": 6035,
+					"y": 1622,
+					"w": 137,
+					"h": 44,
+					"fontSize": 32,
+					"fontWeight": 400,
+					"fontFamily": "Oswald",
+					"color": "#111111",
+					"align": "center",
+					"lineHeight": 1.25,
+					"letterSpacing": 0,
+					"fill": "transparent",
+					"opacity": 1,
+					"rotation": 0,
+					"visible": true,
+					"locked": false,
+					"padding": [
+						0,
+						0,
+						0,
+						0
+					],
+					"shadows": [],
+					"outline": {
+						"width": 0,
+						"style": "solid",
+						"color": "#0D99FF",
+						"offset": 0
+					},
+					"textShadows": [],
+					"filters": {}
+				},
+				{
+					"id": "xoc5tk9",
+					"type": "text",
+					"name": "Texto 1 (cópia) (cópia)",
+					"text": "Qantidade de pessoas:",
+					"x": 6045,
+					"y": 1802,
+					"w": 259,
+					"h": 44,
+					"fontSize": 32,
+					"fontWeight": 400,
+					"fontFamily": "Oswald",
+					"color": "#111111",
+					"align": "center",
+					"lineHeight": 1.25,
+					"letterSpacing": 0,
+					"fill": "transparent",
+					"opacity": 1,
+					"rotation": 0,
+					"visible": true,
+					"locked": false,
+					"padding": [
+						0,
+						0,
+						0,
+						0
+					],
+					"shadows": [],
+					"outline": {
+						"width": 0,
+						"style": "solid",
+						"color": "#0D99FF",
+						"offset": 0
+					},
+					"textShadows": [],
+					"filters": {}
+				},
+				{
+					"id": "xj3kr1i",
+					"type": "text",
+					"name": "Texto 1 (cópia) (cópia) (cópia)",
+					"text": "Localização:",
+					"x": 6035,
+					"y": 1972,
+					"w": 153,
+					"h": 44,
+					"fontSize": 32,
+					"fontWeight": 400,
+					"fontFamily": "Oswald",
+					"color": "#111111",
+					"align": "center",
+					"lineHeight": 1.25,
+					"letterSpacing": 0,
+					"fill": "transparent",
+					"opacity": 1,
+					"rotation": 0,
+					"visible": true,
+					"locked": false,
+					"padding": [
+						0,
+						0,
+						0,
+						0
+					],
+					"shadows": [],
+					"outline": {
+						"width": 0,
+						"style": "solid",
+						"color": "#0D99FF",
+						"offset": 0
+					},
+					"textShadows": [],
+					"filters": {}
+				},
+				{
 					"id": "8stzggo",
 					"type": "text",
 					"name": "Texto 1 (cópia)",
 					"text": "Cadastrar família",
 					"x": 6449,
 					"y": 1526,
+					"w": 348,
+					"h": 68,
+					"fontSize": 51,
+					"fontWeight": 400,
+					"fontFamily": "Oswald",
+					"color": "#111111",
+					"align": "center",
+					"lineHeight": 1.25,
+					"letterSpacing": 0,
+					"fill": "transparent",
+					"opacity": 1,
+					"rotation": 0,
+					"visible": true,
+					"locked": false,
+					"padding": [
+						0,
+						0,
+						0,
+						0
+					],
+					"shadows": [],
+					"outline": {
+						"width": 0,
+						"style": "solid",
+						"color": "#0D99FF",
+						"offset": 0
+					},
+					"textShadows": [],
+					"filters": {}
+				},
+				{
+					"id": "2hr2m9k",
+					"type": "text",
+					"name": "Texto 1 (cópia) (cópia)",
+					"text": "Enviar",
+					"x": 6858,
+					"y": 2209,
 					"w": 348,
 					"h": 68,
 					"fontSize": 51,
